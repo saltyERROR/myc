@@ -1,0 +1,10 @@
+# It is gitignore file.
+
+/Temp/
+/Build/
+/Library/
+
+# VisualStudio
+
+/.vs/
+/.vscode/
